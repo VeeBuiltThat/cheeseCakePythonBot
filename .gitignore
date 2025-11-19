@@ -12,6 +12,7 @@ venv/
 config.json
 config.yaml
 config.ini
+config.py
 
 # Environment variables
 *.env
@@ -40,3 +41,12 @@ build/
 
 # macOS specific
 .DS_Store
+
+# files that are not needed to be shared for now
+cc.py
+event.py
+emergency.py
+data/ccac_birthday.db
+discloud.config
+Cheesecake.code-workspace.json
+2.0.0
